@@ -1,0 +1,22 @@
+{
+  "name": "qa-test-automation-demo",
+  "version": "1.0.0",
+  "description": "A simple demo on how to automate your test cases using an automation tool called Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvaHasan/QA-Test-Automation-Demo.git"
+  },
+  "keywords": [],
+  "author": "Salva Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalvaHasan/QA-Test-Automation-Demo/issues"
+  },
+  "homepage": "https://github.com/SalvaHasan/QA-Test-Automation-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0",
+    "allure-playwright": "^2.0.0-beta.19"
+  }
+}
